@@ -1,0 +1,12 @@
+com.example.learnflutter.app-core-1.6.0-0 C:\Users\Owner\.gradle\caches\transforms-3\26acf8f76bbff2bac56fae6f64fc6fbc\transformed\core-1.6.0\res
+com.example.learnflutter.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Owner\.gradle\caches\transforms-3\27bded554329ca5ea0161bc9b1966284\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.learnflutter.app-jetified-window-1.0.0-beta04-2 C:\Users\Owner\.gradle\caches\transforms-3\4b4cc32fb471ddbc82bade66daa46e9a\transformed\jetified-window-1.0.0-beta04\res
+com.example.learnflutter.app-jetified-window-java-1.0.0-beta04-3 C:\Users\Owner\.gradle\caches\transforms-3\fe2be85db8b0f63d7078888b7bbdaac5\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.learnflutter.app-debug-4 C:\Users\Owner\Desktop\LearnFlutter1\android\app\src\debug\res
+com.example.learnflutter.app-main-5 C:\Users\Owner\Desktop\LearnFlutter1\android\app\src\main\res
+com.example.learnflutter.app-pngs-6 C:\Users\Owner\Desktop\LearnFlutter1\build\app\generated\res\pngs\debug
+com.example.learnflutter.app-resValues-7 C:\Users\Owner\Desktop\LearnFlutter1\build\app\generated\res\resValues\debug
+com.example.learnflutter.app-rs-8 C:\Users\Owner\Desktop\LearnFlutter1\build\app\generated\res\rs\debug
+com.example.learnflutter.app-mergeDebugResources-9 C:\Users\Owner\Desktop\LearnFlutter1\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.learnflutter.app-mergeDebugResources-10 C:\Users\Owner\Desktop\LearnFlutter1\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.learnflutter.app-merged_res-11 C:\Users\Owner\Desktop\LearnFlutter1\build\app\intermediates\merged_res\debug
